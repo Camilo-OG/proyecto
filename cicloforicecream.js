@@ -8,6 +8,8 @@ let iceCreamFlavors = [
     "Pistacho",
     "Neapolitan",
     "Mint Chip",
+    "kiwi",
+    "manzana"
   ];
   
   
